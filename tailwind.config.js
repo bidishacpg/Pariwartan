@@ -14,6 +14,12 @@ export default {
             fontFamily: {
                 sans: ['Figtree', ...defaultTheme.fontFamily.sans],
             },
+            colors: {
+                primary: {
+                    DEFAULT: 'oklch(0.53 0.0834 232.52)',
+                    light: 'oklch(0.72 0.0809 232.52)',
+                },
+            },
         },
     },
 
