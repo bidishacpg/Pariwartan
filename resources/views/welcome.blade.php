@@ -237,6 +237,193 @@
                 </div>
             </div>
         </section>
+        <section class="py-12">
+            <div class="container mx-auto px-4">
+                <h2 class="text-2xl font-bold mb-8 text-center">News</h2>
+
+                <div class="flex overflow-x-auto pb-6 -mx-4 px-4 gap-4 scroll-smooth snap-x snap-mandatory">
+                    <!-- Event 1 -->
+                    <div class="flex-shrink-0 w-72 snap-start">
+                        <div
+                            class="bg-white dark:bg-[#1a1a1a] rounded-lg overflow-hidden border border-[#19140035] dark:border-[#3E3E3A] hover:shadow-md transition-shadow">
+                            <img src="https://images.unsplash.com/photo-1501281668745-f7f57925c3b4?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=800&q=80"
+                                alt="Tech Conference" class="w-full h-48 object-cover">
+                            <div class="p-5">
+                                <div class="flex items-center text-sm text-[#1b1b18]/70 dark:text-[#EDEDEC]/70 mb-2">
+                                    <svg class="w-4 h-4 mr-1" fill="none" stroke="currentColor"
+                                        viewBox="0 0 24 24">
+                                        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2"
+                                            d="M8 7V3m8 4V3m-9 8h10M5 21h14a2 2 0 002-2V7a2 2 0 00-2-2H5a2 2 0 00-2 2v12a2 2 0 002 2z" />
+                                    </svg>
+                                    Nov 15, 2023
+                                </div>
+                                <h3 class="font-semibold mb-2">Tech Conference</h3>
+                                <p class="text-sm text-[#1b1b18]/70 dark:text-[#EDEDEC]/70 mb-4">Join industry leaders
+                                    for the biggest tech event.</p>
+                                <a href="#"
+                                    class="text-sm text-primary dark:text-primary-light hover:underline flex items-center">
+                                    View Details
+                                    <svg class="w-4 h-4 ml-1" fill="none" stroke="currentColor"
+                                        viewBox="0 0 24 24">
+                                        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2"
+                                            d="M14 5l7 7m0 0l-7 7m7-7H3" />
+                                    </svg>
+                                </a>
+                            </div>
+                        </div>
+                    </div>
+
+                    <!-- Event 2 -->
+                    <div class="flex-shrink-0 w-72 snap-start">
+                        <div
+                            class="bg-white dark:bg-[#1a1a1a] rounded-lg overflow-hidden border border-[#19140035] dark:border-[#3E3E3A] hover:shadow-md transition-shadow">
+                            <img src="https://images.unsplash.com/photo-1492684223066-81342ee5ff30?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=800&q=80"
+                                alt="Music Festival" class="w-full h-48 object-cover">
+                            <div class="p-5">
+                                <div class="flex items-center text-sm text-[#1b1b18]/70 dark:text-[#EDEDEC]/70 mb-2">
+                                    <svg class="w-4 h-4 mr-1" fill="none" stroke="currentColor"
+                                        viewBox="0 0 24 24">
+                                        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2"
+                                            d="M8 7V3m8 4V3m-9 8h10M5 21h14a2 2 0 002-2V7a2 2 0 00-2-2H5a2 2 0 00-2 2v12a2 2 0 002 2z" />
+                                    </svg>
+                                    Dec 5-7, 2023
+                                </div>
+                                <h3 class="font-semibold mb-2">Music Festival</h3>
+                                <p class="text-sm text-[#1b1b18]/70 dark:text-[#EDEDEC]/70 mb-4">Experience live music
+                                    from top artists worldwide.</p>
+                                <a href="#"
+                                    class="text-sm text-primary dark:text-primary-light hover:underline flex items-center">
+                                    View Details
+                                    <svg class="w-4 h-4 ml-1" fill="none" stroke="currentColor"
+                                        viewBox="0 0 24 24">
+                                        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2"
+                                            d="M14 5l7 7m0 0l-7 7m7-7H3" />
+                                    </svg>
+                                </a>
+                            </div>
+                        </div>
+                    </div>
+
+                    <!-- Event 3 -->
+                    <div class="flex-shrink-0 w-72 snap-start">
+                        <div
+                            class="bg-white dark:bg-[#1a1a1a] rounded-lg overflow-hidden border border-[#19140035] dark:border-[#3E3E3A] hover:shadow-md transition-shadow">
+                            <img src="https://images.unsplash.com/photo-1519671482749-fd09be7ccebf?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=800&q=80"
+                                alt="Art Exhibition" class="w-full h-48 object-cover">
+                            <div class="p-5">
+                                <div class="flex items-center text-sm text-[#1b1b18]/70 dark:text-[#EDEDEC]/70 mb-2">
+                                    <svg class="w-4 h-4 mr-1" fill="none" stroke="currentColor"
+                                        viewBox="0 0 24 24">
+                                        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2"
+                                            d="M8 7V3m8 4V3m-9 8h10M5 21h14a2 2 0 002-2V7a2 2 0 00-2-2H5a2 2 0 00-2 2v12a2 2 0 002 2z" />
+                                    </svg>
+                                    Jan 10-30, 2024
+                                </div>
+                                <h3 class="font-semibold mb-2">Art Exhibition</h3>
+                                <p class="text-sm text-[#1b1b18]/70 dark:text-[#EDEDEC]/70 mb-4">Discover contemporary
+                                    art from emerging artists.</p>
+                                <a href="#"
+                                    class="text-sm text-primary dark:text-primary-light hover:underline flex items-center">
+                                    View Details
+                                    <svg class="w-4 h-4 ml-1" fill="none" stroke="currentColor"
+                                        viewBox="0 0 24 24">
+                                        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2"
+                                            d="M14 5l7 7m0 0l-7 7m7-7H3" />
+                                    </svg>
+                                </a>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="flex-shrink-0 w-72 snap-start">
+                        <div
+                            class="bg-white dark:bg-[#1a1a1a] rounded-lg overflow-hidden border border-[#19140035] dark:border-[#3E3E3A] hover:shadow-md transition-shadow">
+                            <img src="https://images.unsplash.com/photo-1519671482749-fd09be7ccebf?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=800&q=80"
+                                alt="Art Exhibition" class="w-full h-48 object-cover">
+                            <div class="p-5">
+                                <div class="flex items-center text-sm text-[#1b1b18]/70 dark:text-[#EDEDEC]/70 mb-2">
+                                    <svg class="w-4 h-4 mr-1" fill="none" stroke="currentColor"
+                                        viewBox="0 0 24 24">
+                                        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2"
+                                            d="M8 7V3m8 4V3m-9 8h10M5 21h14a2 2 0 002-2V7a2 2 0 00-2-2H5a2 2 0 00-2 2v12a2 2 0 002 2z" />
+                                    </svg>
+                                    Jan 10-30, 2024
+                                </div>
+                                <h3 class="font-semibold mb-2">Art Exhibition</h3>
+                                <p class="text-sm text-[#1b1b18]/70 dark:text-[#EDEDEC]/70 mb-4">Discover contemporary
+                                    art from emerging artists.</p>
+                                <a href="#"
+                                    class="text-sm text-primary dark:text-primary-light hover:underline flex items-center">
+                                    View Details
+                                    <svg class="w-4 h-4 ml-1" fill="none" stroke="currentColor"
+                                        viewBox="0 0 24 24">
+                                        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2"
+                                            d="M14 5l7 7m0 0l-7 7m7-7H3" />
+                                    </svg>
+                                </a>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="flex-shrink-0 w-72 snap-start">
+                        <div
+                            class="bg-white dark:bg-[#1a1a1a] rounded-lg overflow-hidden border border-[#19140035] dark:border-[#3E3E3A] hover:shadow-md transition-shadow">
+                            <img src="https://images.unsplash.com/photo-1519671482749-fd09be7ccebf?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=800&q=80"
+                                alt="Art Exhibition" class="w-full h-48 object-cover">
+                            <div class="p-5">
+                                <div class="flex items-center text-sm text-[#1b1b18]/70 dark:text-[#EDEDEC]/70 mb-2">
+                                    <svg class="w-4 h-4 mr-1" fill="none" stroke="currentColor"
+                                        viewBox="0 0 24 24">
+                                        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2"
+                                            d="M8 7V3m8 4V3m-9 8h10M5 21h14a2 2 0 002-2V7a2 2 0 00-2-2H5a2 2 0 00-2 2v12a2 2 0 002 2z" />
+                                    </svg>
+                                    Jan 10-30, 2024
+                                </div>
+                                <h3 class="font-semibold mb-2">Art Exhibition</h3>
+                                <p class="text-sm text-[#1b1b18]/70 dark:text-[#EDEDEC]/70 mb-4">Discover contemporary
+                                    art from emerging artists.</p>
+                                <a href="#"
+                                    class="text-sm text-primary dark:text-primary-light hover:underline flex items-center">
+                                    View Details
+                                    <svg class="w-4 h-4 ml-1" fill="none" stroke="currentColor"
+                                        viewBox="0 0 24 24">
+                                        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2"
+                                            d="M14 5l7 7m0 0l-7 7m7-7H3" />
+                                    </svg>
+                                </a>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="flex-shrink-0 w-72 snap-start">
+                        <div
+                            class="bg-white dark:bg-[#1a1a1a] rounded-lg overflow-hidden border border-[#19140035] dark:border-[#3E3E3A] hover:shadow-md transition-shadow">
+                            <img src="https://images.unsplash.com/photo-1519671482749-fd09be7ccebf?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=800&q=80"
+                                alt="Art Exhibition" class="w-full h-48 object-cover">
+                            <div class="p-5">
+                                <div class="flex items-center text-sm text-[#1b1b18]/70 dark:text-[#EDEDEC]/70 mb-2">
+                                    <svg class="w-4 h-4 mr-1" fill="none" stroke="currentColor"
+                                        viewBox="0 0 24 24">
+                                        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2"
+                                            d="M8 7V3m8 4V3m-9 8h10M5 21h14a2 2 0 002-2V7a2 2 0 00-2-2H5a2 2 0 00-2 2v12a2 2 0 002 2z" />
+                                    </svg>
+                                    Jan 10-30, 2024
+                                </div>
+                                <h3 class="font-semibold mb-2">Art Exhibition</h3>
+                                <p class="text-sm text-[#1b1b18]/70 dark:text-[#EDEDEC]/70 mb-4">Discover contemporary
+                                    art from emerging artists.</p>
+                                <a href="#"
+                                    class="text-sm text-primary dark:text-primary-light hover:underline flex items-center">
+                                    View Details
+                                    <svg class="w-4 h-4 ml-1" fill="none" stroke="currentColor"
+                                        viewBox="0 0 24 24">
+                                        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2"
+                                            d="M14 5l7 7m0 0l-7 7m7-7H3" />
+                                    </svg>
+                                </a>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>
         <!-- Call to Action -->
         <section class="bg-primary dark:bg-primary-light py-16 mb-16">
             <div class="max-w-4xl mx-auto px-4 text-center text-white">
