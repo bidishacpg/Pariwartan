@@ -13,7 +13,7 @@
     <div class="flex min-h-screen">
 
         <aside id="sidebar"
-            class="transition-all duration-300 w-64 md:block bg-[oklch(0.53_0.0834_232.52)] border-r border-gray-200 text-white h-screen fixed">
+            class="transition-all duration-300 w-64 md:block bg-[oklch(0.37_0.0686_224.05)] border-r border-gray-200 text-white h-screen fixed">
 
             <!-- Toggle Button -->
             <div class="h-16 flex items-center justify-between border-b border-gray-300 px-4">
@@ -31,7 +31,7 @@
             <!-- Menu Items -->
             <nav class="mt-4 space-y-2 px-4">
                 <a id="expand-sidebar"
-                    class="expand-sidebar flex items-center gap-3 py-2 px-3 rounded hover:bg-[oklch(0.72_0.0809_232.52)] transition-colors cursor-pointer">
+                    class="expand-sidebar flex items-center gap-3 py-2 px-3 rounded hover:bg-[oklch(0.61_0.0883_224.05)] transition-colors cursor-pointer">
                     <svg class="fill-current" width="18" height="18" viewBox="0 0 18 18" fill="none"
                         xmlns="http://www.w3.org/2000/svg">
                         <path
@@ -50,7 +50,7 @@
                     <span class="menu-text">Home</span>
                 </a>
                 <a href="pariwartan/news/create" id="expand-sidebar"
-                    class="flex items-center gap-3 py-2 px-3 rounded hover:bg-[oklch(0.72_0.0809_232.52)] transition-colors cursor-pointer">
+                    class="flex items-center gap-3 py-2 px-3 rounded hover:bg-[oklch(0.61_0.0883_224.05)] transition-colors cursor-pointer">
                     <svg class="fill-current" width="18" height="18" viewBox="0 0 18 18" fill="none"
                         xmlns="http://www.w3.org/2000/svg">
                         <path
@@ -69,7 +69,7 @@
                     <span class="menu-text">News Create</span>
                 </a>
                 <a href="pariwartan/news" id="expand-sidebar"
-                    class="flex items-center gap-3 py-2 px-3 rounded hover:bg-[oklch(0.72_0.0809_232.52)] transition-colors cursor-pointer">
+                    class="flex items-center gap-3 py-2 px-3 rounded hover:bg-[oklch(0.61_0.0883_224.05)] transition-colors cursor-pointer">
                     <svg class="fill-current" width="18" height="18" viewBox="0 0 18 18" fill="none"
                         xmlns="http://www.w3.org/2000/svg">
                         <path
@@ -88,7 +88,7 @@
                     <span class="menu-text">News List</span>
                 </a>
                 <a href="pariwartan/events/create" id="expand-sidebar"
-                    class="flex items-center gap-3 py-2 px-3 rounded hover:bg-[oklch(0.72_0.0809_232.52)] transition-colors cursor-pointer">
+                    class="flex items-center gap-3 py-2 px-3 rounded hover:bg-[oklch(0.61_0.0883_224.05)] transition-colors cursor-pointer">
                     <svg class="fill-current" width="18" height="18" viewBox="0 0 18 18" fill="none"
                         xmlns="http://www.w3.org/2000/svg">
                         <path
@@ -107,7 +107,7 @@
                     <span class="menu-text">Add Events</span>
                 </a>
                 <a href="pariwartan/events" id="expand-sidebar"
-                    class="flex items-center gap-3 py-2 px-3 rounded hover:bg-[oklch(0.72_0.0809_232.52)] transition-colors cursor-pointer">
+                    class="flex items-center gap-3 py-2 px-3 rounded hover:bg-[oklch(0.61_0.0883_224.05)] transition-colors cursor-pointer">
                     <svg class="fill-current" width="18" height="18" viewBox="0 0 18 18" fill="none"
                         xmlns="http://www.w3.org/2000/svg">
                         <path
@@ -126,7 +126,7 @@
                     <span class="menu-text">List Events</span>
                 </a>
                 <a href ="pariwartan/complaints/create" id="expand-sidebar"
-                    class="flex items-center gap-3 py-2 px-3 rounded hover:bg-[oklch(0.72_0.0809_232.52)] transition-colors cursor-pointer">
+                    class="flex items-center gap-3 py-2 px-3 rounded hover:bg-[oklch(0.61_0.0883_224.05)] transition-colors cursor-pointer">
                     <svg class="fill-current" width="18" height="18" viewBox="0 0 18 18" fill="none"
                         xmlns="http://www.w3.org/2000/svg">
                         <path
@@ -145,7 +145,7 @@
                     <span class="menu-text">Post Complains</span>
                 </a>
                 <a href ="pariwartan/complaints" id="expand-sidebar"
-                    class="flex items-center gap-3 py-2 px-3 rounded hover:bg-[oklch(0.72_0.0809_232.52)] transition-colors cursor-pointer">
+                    class="flex items-center gap-3 py-2 px-3 rounded hover:bg-[oklch(0.61_0.0883_224.05)] transition-colors cursor-pointer">
                     <svg class="fill-current" width="18" height="18" viewBox="0 0 18 18" fill="none"
                         xmlns="http://www.w3.org/2000/svg">
                         <path
@@ -164,7 +164,7 @@
                     <span class="menu-text">List Complains</span>
                 </a>
                 <a id="expand-sidebar"
-                    class="flex items-center gap-3 py-2 px-3 rounded hover:bg-[oklch(0.72_0.0809_232.52)] transition-colors cursor-pointer">
+                    class="flex items-center gap-3 py-2 px-3 rounded hover:bg-[oklch(0.61_0.0883_224.05)] transition-colors cursor-pointer">
                     <svg class="fill-current" width="18" height="18" viewBox="0 0 18 18" fill="none"
                         xmlns="http://www.w3.org/2000/svg">
                         <path
@@ -183,7 +183,7 @@
                     <span class="menu-text">Wadas</span>
                 </a>
                 <a id="expand-sidebar"
-                    class="flex items-center gap-3 py-2 px-3 rounded hover:bg-[oklch(0.72_0.0809_232.52)] transition-colors cursor-pointer">
+                    class="flex items-center gap-3 py-2 px-3 rounded hover:bg-[oklch(0.61_0.0883_224.05)] transition-colors cursor-pointer">
                     <svg class="fill-current" width="18" height="18" viewBox="0 0 18 18" fill="none"
                         xmlns="http://www.w3.org/2000/svg">
                         <path

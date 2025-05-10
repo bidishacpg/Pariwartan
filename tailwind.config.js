@@ -16,8 +16,10 @@ export default {
             },
             colors: {
                 primary: {
-                    DEFAULT: 'oklch(0.53 0.0834 232.52)',
-                    light: 'oklch(0.72 0.0809 232.52)',
+                    // DEFAULT: 'oklch(0.53 0.0834 232.52)',
+                    // light: 'oklch(0.72 0.0809 232.52)',
+                    DEFAULT: 'oklch(0.37 0.0686 224.05)',
+                    light: 'oklch(0.61 0.0883 224.05)',
                 },
             },
         },
